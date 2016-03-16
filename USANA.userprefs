@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="iOS/USANA.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="USANA/MyClass.cs" Line="1" Column="14" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/ViewController.cs" Line="125" Column="91" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="USANA/RSSFeeds.cs" Line="4" Column="1" />
+      <File FileName="USANA/Item.cs" Line="10" Column="30" />
+      <File FileName="USANA/packages.config" Line="4" Column="12" />
+      <File FileName="USANA/ConvertList.cs" Line="21" Column="50" />
+      <File FileName="iOS/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="USANA" expanded="True" selected="True">
+            <Node name="USANA" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="USANA.iOS" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

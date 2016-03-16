@@ -1,0 +1,6 @@
+/Users/nathanlarson/Projects/USANA/USANA/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/nathanlarson/Projects/USANA/USANA/bin/Debug/USANA.dll.mdb
+/Users/nathanlarson/Projects/USANA/USANA/bin/Debug/USANA.dll
+/Users/nathanlarson/Projects/USANA/USANA/obj/Debug/USANA.dll
+/Users/nathanlarson/Projects/USANA/USANA/obj/Debug/USANA.dll.mdb
+/Users/nathanlarson/Projects/USANA/USANA/bin/Debug/Newtonsoft.Json.dll
